@@ -20,7 +20,7 @@
   * [Fees](en/trading/fees.md)
   * [Portfolio](en/trading/portfolio.md)
 * [POINTS](en/points/README.md)
-  * [How It Works](pen/oints/how-it-works.md)
+  * [How It Works](en/points/how-it-works.md)
   * [Benefits](en/points/benefits.md)
   * [Terms](en/points/terms.md)
 * [REFERRALS](en/referrals.md)
