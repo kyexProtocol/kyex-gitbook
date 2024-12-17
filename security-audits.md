@@ -18,4 +18,3 @@ The audit confirms KYEX has addressed all critical vulnerabilities and implement
 
 {% file src=".gitbook/assets/KYEX Smart Contract Audit Report - QuillAudits.pdf" %}
 
-\
