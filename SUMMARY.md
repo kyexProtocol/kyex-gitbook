@@ -1,20 +1,25 @@
-# Table of contents
+# Summary
 
-* [ABOUT KYEX](README.md)
-  * [Core Contributors](about-kyex/core-contributors.md)
-* [ALLSWAP](allswap/README.md)
-  * [Cross-Chain Infrastructure](allswap/cross-chain-infrastructure.md)
-  * [Smart Routing](allswap/smart-routing.md)
-  * [Oracles](allswap/oracles.md)
-  * [User Trading Flow](allswap/user-trading-flow.md)
-* [TRADING](trading/README.md)
-  * [Supported Assets](trading/supported-assets.md)
-  * [Fees](trading/fees.md)
-  * [Portfolio](trading/portfolio.md)
-* [POINTS](points/README.md)
-  * [How It Works](points/how-it-works.md)
-  * [Benefits](points/benefits.md)
-  * [Terms](points/terms.md)
-* [REFERRALS](referrals.md)
-* [RISKS](risks.md)
-* [SECURITY AUDITS](security-audits.md)
+## Languages
+- [English](en/)
+- [中文 (Chinese)](zh/)
+
+## Sections
+
+### English
+- [About Kyex](en/about-kyex.md)
+- [Allswap](en/allswap.md)
+- [Points](en/points.md)
+- [Trading](en/trading.md)
+- [Referrals](en/referrals.md)
+- [Risks](en/risks.md)
+- [Security Audits](en/security-audits.md)
+
+### 中文 (Chinese)
+- [关于 Kyex](zh/about-kyex.md)
+- [Allswap](zh/allswap.md)
+- [积分](zh/points.md)
+- [交易](zh/trading.md)
+- [推荐](zh/referrals.md)
+- [风险](zh/risks.md)
+- [安全审计](zh/security-audits.md)

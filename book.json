@@ -1,0 +1,11 @@
+{
+    "structure": {
+      "readme": "README.md",
+      "summary": "SUMMARY.md"
+    },
+    "plugins": ["search", "language", "ga"],
+    "variables": {
+      "languages": ["en", "zh"]
+    }
+  }
+  
