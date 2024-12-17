@@ -13,20 +13,17 @@
 - [Core Contributors](en/about-kyex/core-contributors.md)
 
 ## Allswap
-- [Introduction](allswap/README.md)
 - [Cross-Chain Infrastructure](allswap/cross-chain-infrastructure.md)
 - [Oracles](allswap/oracles.md)
 - [Smart Routing](allswap/smart-routing.md)
 - [User Trading Flow](allswap/user-trading-flow.md)
 
 ## Points
-- [Overview](points/README.md)
 - [Benefits](points/benefits.md)
 - [How It Works](points/how-it-works.md)
 - [Terms](points/terms.md)
 
 ## Trading
-- [Overview](trading/README.md)
 - [Fees](trading/fees.md)
 - [Portfolio](trading/portfolio.md)
 - [Supported Assets](trading/supported-assets.md)
