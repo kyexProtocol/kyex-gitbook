@@ -12,8 +12,6 @@ layout:
     visible: true
 ---
 
-# Welcome to Kyex Documentation
-
 # ABOUT KYEX
 
 Currently, KYEX is a Decentralized Exchange (DEX) optimized from the ground up. The vision is a fully on-chain, fully transparent trading platform, with applications and features truly built for crypto users. KYEX champions the essence of blockchain, pushing the boundaries of transparency, true decentalization, and full user ownership, all without compromising end user experience.
@@ -32,9 +30,3 @@ Discord: [https://discord.gg/kyex](https://discord.gg/kyex)&#x20;
 
 Telegram: [https://t.me/kyexcommunity](https://t.me/kyexcommunity)
 
-
-
-\
-
-
-\
