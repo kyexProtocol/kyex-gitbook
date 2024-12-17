@@ -14,10 +14,6 @@ layout:
 
 # Welcome to Kyex Documentation
 
-Select your language:
-- [English](en/)
-- [中文](zh/)
-
 # ABOUT KYEX
 
 Currently, KYEX is a Decentralized Exchange (DEX) optimized from the ground up. The vision is a fully on-chain, fully transparent trading platform, with applications and features truly built for crypto users. KYEX champions the essence of blockchain, pushing the boundaries of transparency, true decentalization, and full user ownership, all without compromising end user experience.
