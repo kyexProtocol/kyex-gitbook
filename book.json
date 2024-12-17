@@ -1,0 +1,12 @@
+{
+    "plugins": ["language", "code", "search"],
+    "languages": {
+      "en": {
+        "path": "en/"
+      },
+      "ch": {
+        "path": "ch/"
+      }
+    }
+  }
+  
