@@ -7,6 +7,7 @@
 ---
 
 ### English (Default)
+{% if language == 'en' %}
 ## About Kyex
 - [Core Contributors](en/about-kyex/core-contributors.md)
 
@@ -30,10 +31,12 @@
 - [Referrals](en/referrals.md)
 - [Risks](en/risks.md)
 - [Security Audits](en/security-audits.md)
+{% endif %}
 
 ---
 
 ### 中文 (Chinese)
+{% if language == 'zh' %}
 ## About Kyex
 - [Core Contributors](zh/about-kyex/core-contributors.md)
 
@@ -57,3 +60,4 @@
 - [Referrals](zh/referrals.md)
 - [Risks](zh/risks.md)
 - [Security Audits](zh/security-audits.md)
+{% endif %}
