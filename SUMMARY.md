@@ -4,9 +4,9 @@
 - [English](en/)
 - [中文 (Chinese)](zh/)
 
-## Sections
+---
 
-### English
+### English (Default)
 ## About Kyex
 - [Core Contributors](en/about-kyex/core-contributors.md)
 
