@@ -2,10 +2,10 @@
     "plugins": ["language", "code", "search"],
     "languages": {
       "en": {
-        "path": "en/"
+        "path": "/en"
       },
       "zh": {
-        "path": "zh/"
+        "path": "/zh"
       }
     }
   }

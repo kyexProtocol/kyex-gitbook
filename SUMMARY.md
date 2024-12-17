@@ -1,13 +1,13 @@
 # Summary
 
 ## Languages
-- [English](en/)
-- [中文 (Chinese)](zh/)
+- [English](/en/)
+- [中文 (Chinese)](/zh/)
 
 ---
 
-### English (Default)
 {% if language == 'en' %}
+### English (Default)
 ## About Kyex
 - [Core Contributors](en/about-kyex/core-contributors.md)
 
@@ -35,8 +35,8 @@
 
 ---
 
-### 中文 (Chinese)
 {% if language == 'zh' %}
+### 中文 (Chinese)
 ## About Kyex
 - [Core Contributors](zh/about-kyex/core-contributors.md)
 
