@@ -1,5 +1,11 @@
 # Table of contents
 
+## Languages
+- [English](https://docs.kyex.io/)
+- [中文 (Chinese)](https://docs.kyex.io/cn/)
+
+---
+
 * [ABOUT KYEX](README.md)
   * [Core Contributors](about-kyex/core-contributors.md)
 * [ALLSWAP](allswap/README.md)
