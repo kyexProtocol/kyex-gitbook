@@ -13,25 +13,25 @@
 - [Core Contributors](en/about-kyex/core-contributors.md)
 
 ## Allswap
-- [Cross-Chain Infrastructure](allswap/cross-chain-infrastructure.md)
-- [Oracles](allswap/oracles.md)
-- [Smart Routing](allswap/smart-routing.md)
-- [User Trading Flow](allswap/user-trading-flow.md)
+- [Cross-Chain Infrastructure](en/allswap/cross-chain-infrastructure.md)
+- [Oracles](en/allswap/oracles.md)
+- [Smart Routing](en/allswap/smart-routing.md)
+- [User Trading Flow](en/allswap/user-trading-flow.md)
 
 ## Points
-- [Benefits](points/benefits.md)
-- [How It Works](points/how-it-works.md)
-- [Terms](points/terms.md)
+- [Benefits](en/points/benefits.md)
+- [How It Works](en/points/how-it-works.md)
+- [Terms](en/points/terms.md)
 
 ## Trading
-- [Fees](trading/fees.md)
-- [Portfolio](trading/portfolio.md)
-- [Supported Assets](trading/supported-assets.md)
+- [Fees](en/trading/fees.md)
+- [Portfolio](en/trading/portfolio.md)
+- [Supported Assets](en/trading/supported-assets.md)
 
 ## Other Pages
-- [Referrals](referrals.md)
-- [Risks](risks.md)
-- [Security Audits](security-audits.md)
+- [Referrals](en/referrals.md)
+- [Risks](en/risks.md)
+- [Security Audits](en/security-audits.md)
 
 ### 中文 (Chinese)
 - [关于 Kyex](zh/about-kyex.md)
