@@ -30,9 +30,3 @@ Discord: [https://discord.gg/kyex](https://discord.gg/kyex)&#x20;
 
 Telegram: [https://t.me/kyexcommunity](https://t.me/kyexcommunity)
 
-
-
-\
-
-
-\
