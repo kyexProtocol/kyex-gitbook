@@ -8,7 +8,7 @@
 ***
 
 * [ABOUT KYEX](README.md)
-  * [Core Contributors](readme/core-contributors.md)
+  * [Core Contributors](about-kyex/core-contributors.md)
 * [ALLSWAP](allswap/README.md)
   * [Cross-Chain Infrastructure](allswap/cross-chain-infrastructure.md)
   * [Smart Routing](allswap/smart-routing.md)
