@@ -24,4 +24,4 @@ As such, the KYEX team set out to build a product that could solve these issues 
 
 The team actively engages with and listens to the community; you are welcome to join the[ ](https://discord.gg/hyperliquid)community to ask any questions and share feedback. KYEX takes all forms of feedback constructively, and encourages for its users to work together with the team to build KYEX to the best that it can be.
 
-\\
+\

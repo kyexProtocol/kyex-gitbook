@@ -7,7 +7,7 @@
 
 ***
 
-* [ABOUT KYEX](README.md)
+* [ABOUT KYEX](about-kyex/README.md)
   * [Core Contributors](about-kyex/core-contributors.md)
 * [ALLSWAP](allswap/README.md)
   * [Cross-Chain Infrastructure](allswap/cross-chain-infrastructure.md)
