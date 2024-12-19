@@ -21,7 +21,3 @@ layout:
 {% content-ref url="fees.md" %}
 [fees.md](fees.md)
 {% endcontent-ref %}
-
-{% content-ref url="portfolio.md" %}
-[portfolio.md](portfolio.md)
-{% endcontent-ref %}

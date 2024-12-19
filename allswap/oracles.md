@@ -15,8 +15,6 @@ layout:
 
 # Oracles
 
-## Oracles
-
 ### Introduction
 
 Oracles are integral to Allswap’s advanced functionalities, such as limit orders and Auto-DCA (Dollar Cost Averaging), ensuring accurate and reliable price data for seamless trading execution. In addition to traditional oracles like Chainlink and Pyth, THORChain’s native price feeds enhance the platform’s ability to manage native asset swaps with deep liquidity.

@@ -7,7 +7,7 @@
 
 ***
 
-* [ABOUT KYEX](about-kyex/README.md)
+* [ABOUT KYEX](README.md)
   * [Core Contributors](about-kyex/core-contributors.md)
 * [ALLSWAP](allswap/README.md)
   * [Cross-Chain Infrastructure](allswap/cross-chain-infrastructure.md)
@@ -25,3 +25,9 @@
 * [REFERRALS](referrals.md)
 * [RISKS](risks.md)
 * [SECURITY AUDITS](security-audits.md)
+* [关于 KYEX](guan-yu-kyex/README.md)
+  * [核心贡献者](guan-yu-kyex/he-xin-gong-xian-zhe.md)
+* [ALLSWAP](allswap-1/README.md)
+  * [跨链基础设施](allswap-1/kua-lian-ji-chu-she-shi.md)
+  * [智能路由](allswap-1/zhi-neng-lu-you.md)
+  * [预言机](allswap-1/yu-yan-ji.md)
