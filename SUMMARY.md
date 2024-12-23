@@ -5,6 +5,8 @@
 * [English](https://docs.kyex.io/)
 * [中文 (Chinese)](https://docs.kyex.io/cn/)
 
+---
+
 ## DOCS
 
 ***
