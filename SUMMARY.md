@@ -1,10 +1,13 @@
 # Table of contents
 
 ## Languages
-- [English](https://docs.kyex.io/)
-- [中文 (Chinese)](https://docs.kyex.io/cn/)
+
+* [English](https://docs.kyex.io/)
+* [中文 (Chinese)](https://docs.kyex.io/cn/)
 
 ---
+
+## DOCS
 
 * [ABOUT KYEX](about-kyex/README.md)
   * [Core Contributors](about-kyex/core-contributors.md)
